@@ -53,17 +53,6 @@ Aquest projecte implementa un jugador intel·ligent per al joc **Conecta 4** uti
 
 ## 📊 Comparativa d'Algorismes
 
-| Criteri          | Amb Poda          | Sense Poda        |
-|------------------|-------------------|-------------------|
-| **Avantatges**   |                   |                   |
-| Eficiència       | ✅ Redueix nodes  | Explora tot       |
-| Temps càlcul     | ✅ Optimitzat     | Lent en profunditats grans |
-| **Desavantatges**|                   |                   |
-| Complexitat      | ❌ Més complex    | ✅ Senzill        |
-| Eficàcia         | ✅ Profunditat alta| ✅ Profunditat baixa |
-
-## 📊 Comparativa d'Algorismes
-
 | Criteri              | Minimax amb Poda Alfa-Beta       | Minimax sense Poda                          |
 |----------------------|----------------------------------|---------------------------------------------|
 | **Avantatges** ✅    |                                  |                                             |
